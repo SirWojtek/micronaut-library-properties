@@ -7,7 +7,7 @@ import javax.inject.Singleton;
 public class CommonSingleton {
 
   public CommonSingleton(
-    @Value("${lib.testValue}") String value
+    @Value("${lib.testProperty}") String value
   ) {
     System.out.println(value);
   }
