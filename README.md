@@ -1,4 +1,4 @@
-#micronaut-library-properties
+# micronaut-library-properties
 
 This repository contains the example of Gradle multi-project build with Micronaut.
 
